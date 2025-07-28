@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://future1-20.netlify.app/",
+    "url": "https://280132d5-07fc-4bc6-acec-1b963851b55a-00-v49cunxsldi5.riker.replit.dev/test",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
