@@ -5,16 +5,16 @@
     "description": "Launcher Mincraft pour le serveur Future 1.20",
     "main": "src/app.js",
     "author": {
-        "name": "luuxiw, Inc.",
+        "name": "luuxiw, luxio25, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "http://future.luuxis.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://yt3.googleusercontent.com/rFvtrNtmofNbypHiecevKbOa1dmFcc9yJ2g9gWcokC11Tq9l84zFtlPfWnnMJU55ivTcKBozMw=s160-c-k-c0x00ffffff-no-rj"
     },
     "license": "CCANC",
     "nodemonConfig": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/luxio25-bot/Future-1.20-launcher.git"
     }
 }
